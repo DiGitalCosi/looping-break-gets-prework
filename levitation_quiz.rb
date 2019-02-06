@@ -7,5 +7,3 @@ def levitation_quiz
 	puts "You Passed the quiz!"
 end
 end
-
-//leviation_quiz
