@@ -9,5 +9,3 @@ end
 end
 
 leviation_quiz
-
-
